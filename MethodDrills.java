@@ -82,11 +82,11 @@ public class MethodDrills
    *     return  -> 4
    *
    *   @param int x The value to use when calcualting the distance from 16
-   *   @return double The distance between x and 16
+   *   @return int The distance between x and 16
    */
-  public static double distanceFrom16(int x)
+  public static int distanceFrom16(int x)
   {
-    return -999.0;
+    return -999;
   }
 
   /**  Say "Hello [name]"
