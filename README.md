@@ -6,6 +6,26 @@ Complete each of the methods in MethodDrills.java so that they do what their com
 
 Write code in the main method to test your methods as you complete them. It is recommended that you write one method, test it, fix it, then move on to another method.
 
+You will be using Math and String methods to solve these problems.
+
+### Math Methods
+
+```
+Math.sqrt(double a)
+Math.pow(double base, double exponent)
+Math.abs(int a)
+Math.abs(double a)
+```
+
+### String Methods
+
+```
+int length()
+int indexOf(String needle)
+String substring(int start, int end)
+String substring(int start)
+```
+
 Your code must meet the following restrictions:
 
 *  Do not use any of these methods to solve other methods.
