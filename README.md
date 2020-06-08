@@ -92,7 +92,7 @@ It is recommended that you complete these methods in the order they are presente
 
 ```
 double calculateDistance(int x1, int y1, int x2, int y2)
-double distanceFrom16(int x)
+int distanceFrom16(int x)
 String hello(String name)
 String triple(String str)
 int findNeedle(String needle, String haystack)
