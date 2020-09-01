@@ -49,6 +49,8 @@ public class MethodDrills
 
   /**  Use the distance formula to calculate the distance between (x1, y1) and (x2, y2)
    *
+   *  Use the distance formula: https://www.google.com/search?q=distance+formula
+   *
    *   Example:
    *     x1      -> 1
    *     y1      -> 2
@@ -69,7 +71,6 @@ public class MethodDrills
 
   /**  Calculate the distance between 16 and x. This will always be a positive number.
    *
-   *  Use the distance formula: https://www.google.com/search?q=distance+formula
    *
    *   Example:
    *     x       -> 5
@@ -155,7 +156,7 @@ public class MethodDrills
    *
    *   Example:
    *     needle    -> "tacos"
-   *     haystack  -> 1
+   *     index     -> 2
    *     return    -> "taos"
    *
    *   @param String str The string to remove a character from
