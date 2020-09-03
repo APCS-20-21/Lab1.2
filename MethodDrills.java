@@ -213,7 +213,7 @@ public class MethodDrills
     *   Example:
     *     needle    -> "co"
     *     haystack  -> "tacos"
-    *     return    -> "taos"
+    *     return    -> "tas"
     *
     *   @param String needle The value to remove from haystack
     *   @param String haystack The string to remove the needle from

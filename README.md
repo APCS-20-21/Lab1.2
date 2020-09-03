@@ -111,7 +111,7 @@ String frontBack(String str)
 
 ## Turning it in
 
-When you have finished this lab, upload it to [MrMayCS.com/turnitin](http://mrmaycs.com/turnitin)
+When you have finished this lab, upload it to [https://turnerinner.com/@mrmaycs](https://turnerinner.com/@mrmaycs)
 
 ## Hints
 
